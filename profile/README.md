@@ -1,9 +1,3 @@
-# gitlab-profile
-
-
-
-
-
 # VisPan
 Real-time visualization of multiplex syndromic PCR panel sequencing for rapid pathogens detection
 
